@@ -1,0 +1,6 @@
+# Optional dependency for PDF-to-Markdown conversion
+# (Ingestion/convert_pdf_to_markdown.py).
+docling
+
+# The remaining ingestion scripts use Python's standard library and call
+# Ollama and Pinecone over HTTP; no Python SDKs are required.
